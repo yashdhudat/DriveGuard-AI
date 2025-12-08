@@ -86,7 +86,7 @@ Azure Cloud (Planned)
 
 🧪 How to Run Locally
 Clone the repository
-git clone https://github.com/yourusername/DriveGuard-AI.git
+git clone https://github.com/yashdhudat/DriveGuard-AI.git
 cd DriveGuard-AI
 
 Backend Setup
