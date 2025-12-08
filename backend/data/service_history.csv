@@ -1,0 +1,10 @@
+date,vehicle_id,service_type
+2025-01-01,SimVehicle_01,General
+2025-01-02,SimVehicle_02,OilChange
+2025-01-03,SimVehicle_03,BrakeService
+2025-01-05,SimVehicle_01,General
+2025-01-07,SimVehicle_04,General
+2025-01-10,SimVehicle_02,OilChange
+2025-01-11,SimVehicle_03,General
+2025-01-14,SimVehicle_01,Battery
+2025-01-15,SimVehicle_02,General
