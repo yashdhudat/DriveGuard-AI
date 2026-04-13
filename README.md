@@ -307,17 +307,17 @@ SECRET_KEY=your_secret_key_here
     <td>Multi-agent system, ML models, FastAPI backend, system architecture</td>
   </tr>
   <tr>
-    <td><strong>Member 2</strong></td>
+    <td><strong>Maithili</strong></td>
     <td>Frontend Developer</td>
     <td>React dashboard, data visualization, component design</td>
   </tr>
   <tr>
-    <td><strong>Member 3</strong></td>
+    <td><strong>Avishkar</strong></td>
     <td>Data & Integration</td>
     <td>Service scheduling logic, database design, API integration</td>
   </tr>
   <tr>
-    <td><strong>Member 4</strong></td>
+    <td><strong>Shubhangi</strong></td>
     <td>UI/UX & QA</td>
     <td>Interface design, user testing, quality assurance</td>
   </tr>
